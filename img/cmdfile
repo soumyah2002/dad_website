@@ -1,0 +1,2 @@
+docker run -it -d -p 80:80 img-static-site-example
+docker build -t img-static-site-example .
